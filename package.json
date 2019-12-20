@@ -1,0 +1,22 @@
+{
+  "name": "node-yeet",
+  "version": "1.0.0",
+  "description": "Yeet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xe/node-yeet.git"
+  },
+  "keywords": [
+    "yeet"
+  ],
+  "author": "Christine Dodrill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xe/node-yeet/issues"
+  },
+  "homepage": "https://github.com/Xe/node-yeet#readme"
+}
