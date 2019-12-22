@@ -4,7 +4,8 @@
   "description": "Yeet",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "homepage": "https://github.com/Xe/node-yeet#readme",
   "devDependencies": {
     "chai": "^4.2.0",
+    "eslint": "^6.0.0",
     "mocha": "^6.2.2"
   }
 }

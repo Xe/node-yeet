@@ -1,3 +1,1 @@
-module.exports = function(x) {
-  throw x;
-};
+module.exports = x => { throw x; };
