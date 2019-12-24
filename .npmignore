@@ -1,0 +1,5 @@
+test.js
+yarn.lock
+.github/
+.nyc_output/
+lcov.info
